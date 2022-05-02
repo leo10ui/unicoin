@@ -1,0 +1,25 @@
+body{
+    background-color:#1679e3;
+}
+
+.cont-anim{
+    height:500px;
+    width:500px;
+}
+
+.anim-text{
+    position: absolute;
+    font-size:20px;
+    margin-left: 600px;
+    margin-top: -480px;
+    color: white;
+    width: 600px;
+}
+
+.link-secondary{
+    color:white;
+}
+
+.fs-6{
+    color:white;
+}
