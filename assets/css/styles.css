@@ -10,11 +10,22 @@ body{
 .anim-text{
     position: absolute;
     font-size:20px;
+    text-align:center;
     margin-left: 600px;
     margin-top: -480px;
     color: white;
     width: 600px;
 }
+
+
+.coin{
+    position:fixed;
+    width:128px;
+    height:128px;
+    top: 80%;
+    left: 75%;
+}
+
 
 .link-secondary{
     color:white;
