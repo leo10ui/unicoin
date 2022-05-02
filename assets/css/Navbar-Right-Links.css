@@ -55,3 +55,10 @@
   border-radius: 50%;
 }
 
+.navbar{
+  background-color:#075ebd;
+}
+
+a.nav-link{
+  color:white;
+}
