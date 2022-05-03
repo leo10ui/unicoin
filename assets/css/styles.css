@@ -19,6 +19,7 @@ body{
     margin-left: 600px;
     margin-top: -480px;
     color: white;
+    height: 370px;
     width: 600px;
 }
 
@@ -38,5 +39,14 @@ body{
 
 .fs-6{
     font-size:90px;
+    color:#fff100;
+}
+
+.anim-num{
+    align-items:center;
+    margin-left: 236px;
+}
+
+h1{
     color:#fff100;
 }
