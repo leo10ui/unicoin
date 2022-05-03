@@ -2,10 +2,6 @@ body{
     background: radial-gradient(circle,#3796fc 0,#0c72df 100%)!important;
 }
 
-.apresentação{
-    color: white;
-    text-align: center;
-}
 
 .cont-anim{
     height:500px;
@@ -23,30 +19,33 @@ body{
     width: 600px;
 }
 
+.anim-num{
+    align-items:center;
+    margin-left: 236px;
+}
 
 .coin{
     position:fixed;
     width:128px;
     height:128px;
-    top: 75%;
-    left: 85%;
+    top: 77%;
+    left: 88%;
 }
 
-
-.link-secondary{
+.text{
     color:white;
 }
+
+.title{
+    color:#fff100; 
+}
+
 
 .fs-6{
     font-size:90px;
     color:#fff100;
 }
 
-.anim-num{
-    align-items:center;
-    margin-left: 236px;
-}
-
-h1{
-    color:#fff100;
+.link-secondary{
+    color:white;
 }
