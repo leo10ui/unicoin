@@ -1,20 +1,4 @@
-/*NAVBAR*/
-.navbar{
-  background-color:#035cbb;
-}
-/*#1679e3*/
-
-li.navbar-nav{
-  color:white;
-}
-
-ms-md-2{
-  margin-left: 50px
-}
-/*FIM NAVBAR*/
-
-
-body.principal{
+body{
     background: radial-gradient(circle,#3796fc 0,#0c72df 100%)!important;
 }
 
