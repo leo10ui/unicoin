@@ -32,6 +32,7 @@ body{
     min-height: 500px;
 }
 
+/*Texto das animações*/
 .anim-text{
     font-size:20px;
     text-align: center;
@@ -46,6 +47,8 @@ body{
     max-width: 80% ;    
 }
 
+
+/*Container das animações e do texto das animações*/
 @media (min-width: 900px) {
     .container-info {
         grid-template-columns: repeat(2, 500px);
