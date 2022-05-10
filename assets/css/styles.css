@@ -1,11 +1,6 @@
 .navbar{
   background-color:#035cbb;
 }
-/*#1679e3*/
-
-li.navbar-nav{
-  color:white;
-}
 
 ms-md-2{
   margin-left: 50px
@@ -89,6 +84,10 @@ body{
 
 .link-secondary{
     color:white;
+}
+
+fw-bold mb-2{
+    color:black;
 }
 
 h1,h2,h3,h4{
