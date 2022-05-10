@@ -117,3 +117,22 @@ h1,h2,h3,h4{
 
 .padding{ padding-left: 1%;
 padding-right: 1;}
+
+.faq{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+
+}
+
+.frase{
+    color:aliceblue;
+    font-size: 30px;
+    font-style: oblique;
+   
+}
+
+.resp{
+    color:aliceblue;
+    font-size: 25px;
+}
