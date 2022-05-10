@@ -104,3 +104,16 @@ h1,h2,h3,h4{
 .modal {width: 300px;}
 
 .modal-content {width: 300px;}
+
+.bg-unip {
+    background-color: #035cbb;
+    font-size: larger;
+    border-radius: 15px;
+}
+
+.text-unicoin {
+    display: inline-block;
+}
+
+.padding{ padding-left: 1%;
+padding-right: 1;}
